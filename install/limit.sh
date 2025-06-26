@@ -1,5 +1,5 @@
 #!/bin/bash
-REPO="https://raw.githubusercontent.com/scblackmarket/VIP/main/"
+REPO="https://raw.githubusercontent.com/Deriandri/suryafa/main/"
 wget -q -O /usr/bin/limit-ip "${REPO}install/limit-ip"
 chmod +x /usr/bin/*
 cd /usr/bin
