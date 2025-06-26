@@ -6,7 +6,7 @@ apt install p7zip-full -y
 fi
 dateFromServer=$(curl -v --insecure --silent https://google.com/ 2>&1 | grep Date | sed -e 's/< Date: //')
 biji=`date +"%Y-%m-%d" -d "$dateFromServer"`
-REPO="https://raw.githubusercontent.com/scblackmarket/vip/main/"
+REPO="https://raw.githubusercontent.com/Deriandri/suryafa/main/"
 ###########- COLOR CODE -##############
 echo -e " [INFO] Downloading File"
 sleep 2
