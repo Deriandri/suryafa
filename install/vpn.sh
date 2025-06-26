@@ -4,7 +4,7 @@
 # By NEWBIE VPN 
 # ==================================================
 # Link Hosting Kalian
-REPO="https://raw.githubusercontent.com/scblackmarket/vip/main/"
+REPO="https://raw.githubusercontent.com/Deriandri/suryafa/main/"
 
 # initialisasi var
 export DEBIAN_FRONTEND=noninteractive
