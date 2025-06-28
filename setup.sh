@@ -707,8 +707,8 @@ res9
 function iinfo(){
 domain=$(cat /etc/xray/domain)
 TIMES="10"
-CHATID="-100220127fd10"
-KEY="6957152015:AAHoyXbCr0qlSTTqn4nvM4Ol2-r6jqpLI"
+CHATID="1170565452"
+KEY="7283353449:AAFmuwAI6JquaTV8pJ_2cIYG3KJNc3g7ovk"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
 ISP=$(cat /etc/xray/isp)
 CITY=$(cat /etc/xray/city)
