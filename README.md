@@ -1,4 +1,3 @@
-![IMAGE](https://raw.githubusercontent.com/Deriandri/suryafa/main/adijaya.jpeg)
 
 
 ### INSTALL SCRIPT
